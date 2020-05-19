@@ -1,0 +1,22 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "creatingfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter-rozario/node.git"
+  },
+  "author": "peter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter-rozario/node/issues"
+  },
+  "homepage": "https://github.com/peter-rozario/node#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
